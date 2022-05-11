@@ -11,13 +11,14 @@
 
 ## 👀 Swift
 
-## 🌴 UIKit
+## 🌴 iOS
+
+### 1. UIKit
+### 2. SwiftUI
 
 ## 🍰 Architecture & Design Pattern
 
 ## 😈 Trouble Shooting
-
-## 🦄 SwiftUI
 
 ## 🐢 RxSwift 
 
