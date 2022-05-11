@@ -4,7 +4,7 @@
 
 ## ✨ CS
 
-### 1. OS
+### 1. Operating Systems
 ### 2. Data Structure & Algorithm
 ### 3. Network
 
