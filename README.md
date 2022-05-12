@@ -18,6 +18,10 @@
 ### 2. SwiftUI
 
 ## 🍰 Architecture & Design Pattern
+- [[Design Pattern] 구조패턴이란 ?](https://github.com/Suyeon9911/TIL/issues/25)
+- [[Design Pattern] Bridge Pattern](https://github.com/Suyeon9911/TIL/issues/26)
+- [[Design Pattern] Facade Pattern](https://github.com/Suyeon9911/TIL/issues/27)
+- [[Design Pattern] Decorator Pattern]()
 
 ## 😈 Trouble Shooting
 
