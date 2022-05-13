@@ -5,12 +5,13 @@
 ## ✨ CS
 
 ### 1. Operating Systems
+- [Introduction](https://github.com/Suyeon9911/TIL/issues/28)
 ### 2. Data Structure & Algorithm
 #### 1) Data Structure
   - [Hash](https://github.com/Suyeon9911/TIL/issues/7)
   - 
 #### 2) Algorithm
-  - [Sort Algorithm]()
+
 ### 3. Network
 ### 4. DataBase
 
