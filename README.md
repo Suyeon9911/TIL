@@ -30,6 +30,7 @@
 - [[Design Pattern] Decorator Pattern]()
 
 ## 😈 Trouble Shooting
+- [Optional, Any 업캐스팅 Warning](https://github.com/Suyeon9911/TIL/issues/36)
 
 ## 🐢 RxSwift 
 
