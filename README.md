@@ -24,6 +24,7 @@
 ## 🌴 iOS
 
 ### 1. UIKit
+- [TextView에 PlaceHolder 추가하기](https://github.com/Suyeon9911/TIL/issues/40)
 ### 2. SwiftUI
 
 ## 🍰 Architecture & Design Pattern
