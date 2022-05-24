@@ -24,11 +24,15 @@
 - [Swift와 Objective-C의 차이점](https://github.com/Suyeon9911/TIL/issues/43)
 - [Struct & Class](https://github.com/Suyeon9911/TIL/issues/46)
 ## 🌴 iOS
-- [CGSize, CGPoint, CGRect의 차이](https://github.com/Suyeon9911/TIL/issues/48)
-- [Modal dismiss & Reload](https://github.com/Suyeon9911/TIL/issues/52)
 
 ### 1. UIKit
 - [TextView에 PlaceHolder 추가하기](https://github.com/Suyeon9911/TIL/issues/40)
+- [CollectionViewDrag & Drop 기능 구현하기](https://github.com/Suyeon9911/TIL/issues/53)
+- [Modal dismiss & Reload](https://github.com/Suyeon9911/TIL/issues/52)
+- [CGSize, CGPoint, CGRect의 차이](https://github.com/Suyeon9911/TIL/issues/48)
+- [Button Configuration Handler](https://github.com/Suyeon9911/TIL/issues/54)
+
+
 ### 2. SwiftUI
 
 ## 🍰 Architecture & Design Pattern
