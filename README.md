@@ -51,6 +51,7 @@
 
 ## 😈 Trouble Shooting
 - [Optional, Any 업캐스팅 Warning](https://github.com/Suyeon9911/TIL/issues/36)
+- [Debug 창에 뜬 레이아웃 경고를 잘보자 !!](https://github.com/Suyeon9911/TIL/issues/59)
 
 ## 🐢 RxSwift 
 
