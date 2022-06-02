@@ -42,6 +42,7 @@
 
 ### 3. iOS Network
 - [Network & Alamofire 흐름 복습하기](https://github.com/Suyeon9911/TIL/issues/39)
+- [소셜로그인 - 카카오 & 애플](https://github.com/Suyeon9911/TIL/issues/50)
 
 ## 🍰 Architecture & Design Pattern
 - [[Design Pattern] 구조패턴이란 ?](https://github.com/Suyeon9911/TIL/issues/25)
