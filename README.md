@@ -13,7 +13,7 @@
 #### 2) Algorithm
 
 ### 3. Network
-- [IP의 ](https://github.com/Suyeon9911/TIL/issues/63)
+- [IP의 개념](https://github.com/Suyeon9911/TIL/issues/63)
 
 ### 4. DataBase
 
