@@ -13,7 +13,7 @@
 #### 2) Algorithm
 
 ### 3. Network
-- [IP](https://github.com/Suyeon9911/TIL/issues/63)
+- [IP의 ](https://github.com/Suyeon9911/TIL/issues/63)
 
 ### 4. DataBase
 
