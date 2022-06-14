@@ -11,6 +11,10 @@
   - [Hash](https://github.com/Suyeon9911/TIL/issues/7)
   - 
 #### 2) Algorithm
+  - 파이썬 기초 내용
+    - [파이썬에서의 객체지향](https://github.com/Suyeon9911/TIL/issues/66)
+
+
 
 ### 3. Network
 - [IP의 개념](https://github.com/Suyeon9911/TIL/issues/63)
