@@ -30,13 +30,6 @@
 ### 6. ETC
 - [Cloud- Kubernetes & Docker](https://github.com/Suyeon9911/TIL/issues/64)
 
-### 7. BoostCourse - CS 
-- [Computational Thinking, Scratch]()
-- [C]()
-- [Array]()
-- [Algorithms]()
-- [Memory]()
-- [Data Structures]()
 
 ## 👀 Swift
 - [Swift의 언어적특성](https://github.com/Suyeon9911/TIL/issues/42)
