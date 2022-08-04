@@ -35,6 +35,7 @@
 - [Swift의 언어적특성](https://github.com/Suyeon9911/TIL/issues/42)
 - [Swift와 Objective-C의 차이점](https://github.com/Suyeon9911/TIL/issues/43)
 - [Struct & Class](https://github.com/Suyeon9911/TIL/issues/46)
+- [Swift의 데이터타입 총정리](https://github.com/Suyeon9911/TIL/issues/73)
 ## 🌴 iOS
 
 ### 1. UIKit
