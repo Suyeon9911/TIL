@@ -11,8 +11,7 @@
   - [Hash](https://github.com/Suyeon9911/TIL/issues/7)
   - 
 #### 2) Algorithm
-  - 파이썬 기초 내용
-    - [파이썬에서의 객체지향](https://github.com/Suyeon9911/TIL/issues/66)
+- [파이썬에서의 객체지향](https://github.com/Suyeon9911/TIL/issues/66)
 
 
 
@@ -36,6 +35,7 @@
 - [Swift와 Objective-C의 차이점](https://github.com/Suyeon9911/TIL/issues/43)
 - [Struct & Class](https://github.com/Suyeon9911/TIL/issues/46)
 - [Swift의 데이터타입 총정리](https://github.com/Suyeon9911/TIL/issues/73)
+- [Swift의 연산자 총정리](https://github.com/Suyeon9911/TIL/issues/74)
 ## 🌴 iOS
 
 ### 1. UIKit
