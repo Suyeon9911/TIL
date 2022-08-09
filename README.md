@@ -51,6 +51,7 @@
 - [Swift에서의 Solid 원칙](https://suvera.tistory.com/36)
 - [Swift 옵셔널 정리](https://github.com/Suyeon9911/TIL/issues/77)
 - [Swift의 프로퍼티 총정리](https://github.com/Suyeon9911/TIL/issues/47)
+- [Swift의 메서드 총정리](https://github.com/Suyeon9911/TIL/issues/78)
 
 ### Swift 기초 문법
 - [Swift ) 기초 문법 1일차 - 조건문](https://suvera.tistory.com/7)
