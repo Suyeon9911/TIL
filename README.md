@@ -1,12 +1,16 @@
 # TIL
-🌀 매일 출근해서 오전에 적는 미라클 TIL
+🌀 매일 적는 미라클 TIL
 
 
 ## ✨ CS
 
 ### 1. Operating Systems
 - [Introduction](https://github.com/Suyeon9911/TIL/issues/28)
-### 2. Data Structure & Algorithm
+
+### 2. Computer Architecture
+- [컴퓨터구조 1장 - 컴퓨터구조 시작하기](https://github.com/Suyeon9911/TIL/issues/89)
+
+### 3. Data Structure & Algorithm
 #### 1) Data Structure
   - [Hash](https://github.com/Suyeon9911/TIL/issues/7)
   - [자료구조 기초](https://suvera.tistory.com/25)
@@ -22,20 +26,21 @@
 - [Dynamic Programming](https://suvera.tistory.com/33)
 
 
-### 3. Network
+### 4. Network
 - [IP의 개념](https://github.com/Suyeon9911/TIL/issues/63)
 
-### 4. DataBase
+### 5. DataBase
 
 
-### 5. Web & Server
+### 6. Web & Server
 - [Cookie, Session, Token](https://github.com/Suyeon9911/TIL/issues/24)
 - [OAuth2.0](https://github.com/Suyeon9911/TIL/issues/37)
 - [React 서버통신](https://github.com/Suyeon9911/TIL/issues/57)
 - [Selenium](https://github.com/Suyeon9911/TIL/issues/58)
 - [HTTP - Tistory](https://suvera.tistory.com/4)
 
-### 6. ETC
+
+### 7. ETC
 - [Cloud- Kubernetes & Docker](https://github.com/Suyeon9911/TIL/issues/64)
 
 
