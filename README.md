@@ -9,6 +9,7 @@
 
 ### 2. Computer Architecture
 - [컴퓨터구조 1장 - 컴퓨터구조 시작하기](https://github.com/Suyeon9911/TIL/issues/89)
+- [컴퓨터구조 2장 - 데이터](https://github.com/Suyeon9911/TIL/issues/90)
 
 ### 3. Data Structure & Algorithm
 #### 1) Data Structure
