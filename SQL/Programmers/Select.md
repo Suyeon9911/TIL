@@ -46,3 +46,56 @@ ORDER BY HIRE_YMD DESC, DR_NAME ASC
 
 ```
 
+
+4. 3월에 태어난 여성 회원 목록 출력하기
+
+https://school.programmers.co.kr/learn/courses/30/lessons/131120
+
+- 날짜에서 month 만 출력하기 
+- YEAR(기준날짜), MONTH(기준날짜), DAY(기준날짜) 
+- HOUR(), MINUTE(), SECOND() 도 적용가능 
+
+```MySQL
+
+SELECT MEMBER_ID, MEMBER_NAME, GENDER, DATE_FORMAT(DATE_OF_BIRTH, "%Y-%m-%d")
+FROM MEMBER_PROFILE
+WHERE MONTH(DATE_OF_BIRTH) = 3 AND GENDER = 'W' AND TLNO IS NOT NULL
+ORDER BY MEMBER_ID
+```
+
+
+5. 강원도에 위치한 생산공장 목록 출력하기
+
+https://school.programmers.co.kr/learn/courses/30/lessons/131112
+
+- 문자로 조건 걸기 LIKE 
+
+```MySQL
+
+SELECT FACTORY_ID, FACTORY_NAME, ADDRESS
+FROM FOOD_FACTORY
+WHERE ADDRESS LIKE "강원도%"
+ORDER BY FACTORY_ID ASC
+
+```
+
+
+5. 서울에 위치한 식당 목록 출력하기
+
+https://school.programmers.co.kr/learn/courses/30/lessons/131118
+
+- <img width="493" alt="image" src="https://user-images.githubusercontent.com/81313960/198549094-a8273e58-ab65-477b-b321-a56bbef95ac6.png">
+
+
+
+```MySQL
+SELECT INFO.REST_ID,INFO.REST_NAME,
+INFO.FOOD_TYPE, INFO.FAVORITES, INFO.ADDRESS, 
+ROUND(AVG(REVIEW.REVIEW_SCORE),2) AS SCORE
+FROM REST_REVIEW AS REVIEW INNER JOIN REST_INFO AS INFO
+ON REVIEW.REST_ID = INFO.REST_ID
+GROUP BY REVIEW.REST_ID
+HAVING INFO.ADDRESS LIKE "서울%"
+ORDER BY SCORE DESC, INFO.FAVORITES DESC
+
+```
